@@ -6,3 +6,9 @@
 
 This is how I make change
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+import openmc
+bateau = 0.15
+#This is how I code
+```
