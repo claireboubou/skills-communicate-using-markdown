@@ -5,3 +5,4 @@
 ###### And now H6
 
 This is how I make change
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
