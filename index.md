@@ -12,3 +12,13 @@ import openmc
 bateau = 0.15
 #This is how I code
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+- Just a list
+- to try
+1. this is an other list
+2. point
+
+~ bullet point ~ ?
